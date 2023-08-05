@@ -1,2 +1,3 @@
-# WEB3_AI
-My course assignment repository(PIAIC).
+# WEB3_AI/
+PIAIC/ASSIGNMENT/
+
